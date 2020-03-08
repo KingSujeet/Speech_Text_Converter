@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "287838858970",
+    "firebase_url": "https://speechtext-converter.firebaseio.com",
+    "project_id": "speechtext-converter",
+    "storage_bucket": "speechtext-converter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287838858970:android:d1a0eec213b14ef62f3fe3",
+        "android_client_info": {
+          "package_name": "com.fikkarnot.speechtextconverter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287838858970-sqgptqhjfsptvlut4g90ug21vfaejvjc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fikkarnot.speechtextconverter",
+            "certificate_hash": "435d476ae00164d2aea1711584f42bc79f91d7f0"
+          }
+        },
+        {
+          "client_id": "287838858970-tsg9b4ochpkmigq2n4ibe0dc40thhf0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALty05G2c4nTtLHK85oMP-yWnu6dpRiD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287838858970-tsg9b4ochpkmigq2n4ibe0dc40thhf0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

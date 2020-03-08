@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">STC</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tap_to_speech">Tap to Speech</string>
+    <string name="copy_to_clipboard">Copy to Clipboard</string>
+    <string name="name_sujeet_thakur">Name: Sujeet Thakur</string>
+    <string name="email_sujeetcs069_gmail_com">Email: sujeetcs069@gmail.com</string>
+    <string name="qualification_b_tech_in_cse">Qualification: B.tech in CSE</string>
+    <string name="skills_android_app_developement_wordpress_machine_learning_data_structure_java_kotlin_python_web_development_etc">Skills: Android APP Developement, Wordpress, Machine Learning, Data Structure, Java, Kotlin, Python, Web development etc.</string>
+    <string name="linkedin_profile_https_www_linkedin_com_in_sujeet_thakur_0aa492180">Linkedin Profile: https://www.linkedin.com/in/sujeet-thakur-0aa492180</string>
+</resources>
